@@ -1,3 +1,3 @@
 # Sehwaz
-Use for Medical Purpose
+Use for Medical Purpose\n
 Author - Mohammad Meraz Khan
